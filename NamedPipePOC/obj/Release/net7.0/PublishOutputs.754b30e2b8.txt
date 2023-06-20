@@ -1,0 +1,9 @@
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/NamedPipePOC
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/NamedPipePOC.dll
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/NamedPipePOC.deps.json
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/NamedPipePOC.runtimeconfig.json
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/NamedPipePOC.pdb
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/H.Formatters.dll
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/H.Formatters.BinaryFormatter.dll
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/H.Pipes.dll
+/Users/harshagarwal/Projects/NamedPipePOC/NamedPipePOC/bin/Release/net7.0/publish/Newtonsoft.Json.dll
